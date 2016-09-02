@@ -1,0 +1,48 @@
+html{
+    background-image: linear-gradient(#82e9f0, #e5e3c8);
+    background-size: auto;
+}
+
+
+/*== Sections ==*/
+section h1 {padding:450px; text-align:center; color:white; ; border-top:1px solid red; margin:0}
+section:nth-child(even) h1 {} /*on différencie la couleur 1 section sur 2*/
+
+/*== Sections ==*/
+section h1 {padding:450px; text-align:center; color:white; ; border-top:1px solid red; margin:0}
+section:nth-child(even) h1 {} /*on différencie la couleur 1 section sur 2*/
+
+
+#searchbar{
+    height:auto;
+    text-align: center;
+
+}
+#searchbar .text{
+    width:300px;
+    text-align: center;
+ 
+     
+}
+#searchbar .champ{
+    width:600px;
+    height:35px;
+    text-align: center;
+}
+#searchbar .bouton{
+    background-image: url(images/searchbar_button.png);
+    width: 35px;
+    height: 35px;
+    padding: 0;
+    border:none;
+    text-align: center;
+ 
+}
+iframe{
+    margin-top: 100px;
+}
+
+#logo {
+    width:35px
+}
+
